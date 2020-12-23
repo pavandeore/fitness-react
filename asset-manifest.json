@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fitness-react/static/css/main.7374b318.chunk.css",
+    "main.js": "/fitness-react/static/js/main.29404e55.chunk.js",
+    "main.js.map": "/fitness-react/static/js/main.29404e55.chunk.js.map",
+    "runtime-main.js": "/fitness-react/static/js/runtime-main.6a8d2a22.js",
+    "runtime-main.js.map": "/fitness-react/static/js/runtime-main.6a8d2a22.js.map",
+    "static/js/2.886794ca.chunk.js": "/fitness-react/static/js/2.886794ca.chunk.js",
+    "static/js/2.886794ca.chunk.js.map": "/fitness-react/static/js/2.886794ca.chunk.js.map",
+    "index.html": "/fitness-react/index.html",
+    "precache-manifest.8d037df1969966164fb017aace24cbc6.js": "/fitness-react/precache-manifest.8d037df1969966164fb017aace24cbc6.js",
+    "service-worker.js": "/fitness-react/service-worker.js",
+    "static/css/main.7374b318.chunk.css.map": "/fitness-react/static/css/main.7374b318.chunk.css.map",
+    "static/js/2.886794ca.chunk.js.LICENSE.txt": "/fitness-react/static/js/2.886794ca.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/fitness-react/static/media/bg.8a9eb24b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a8d2a22.js",
+    "static/js/2.886794ca.chunk.js",
+    "static/css/main.7374b318.chunk.css",
+    "static/js/main.29404e55.chunk.js"
+  ]
+}
